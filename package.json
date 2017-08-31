@@ -1,0 +1,10 @@
+{
+  "name": "middlewares",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Nut Freedom",
+  "license": "MIT",
+  "scripts": {
+    "dev": "npm run dev --prefix client"
+  }
+}
